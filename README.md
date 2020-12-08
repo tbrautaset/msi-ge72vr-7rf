@@ -154,6 +154,8 @@ After second reboot enter BIOS in the same way, go to Security tab, select Secur
 ### :computer: USB Ports 
 - HS03 USB2 <-- Top left USB3 port
 - HS04 USB2 <-- Bottom left USB3 port
+- HS05 TypeC+Sw <-- Orientation 1
+- HS06 TypeC+Sw <-- Orientation 2
 - HS07 Internal <-- MSI EPF USB
 - HS08 USB2 <-- Right USB2 port
 - HS10 Internal <-- BCM20702A0 Bluetooth USB Port
@@ -161,7 +163,8 @@ After second reboot enter BIOS in the same way, go to Security tab, select Secur
 - HS12 Internal <-- USB2.0-CRW SD Card Reader
 - SS04 USB3 <-- Bottom left USB3 port
 - SS03 USB3 <-- Top left USB3 port
-- RP05 TypeC+Sw <-- Bottom left USB C port</details>
+- SS05 TypeC+Sw <-- Orientation 1
+- SS06 TypeC+Sw <-- Orientation 2</details>
 ## Useful Info
 - [Vanilla Laptop Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
