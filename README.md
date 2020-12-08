@@ -152,19 +152,19 @@ After second reboot enter BIOS in the same way, go to Security tab, select Secur
 <details><summary><strong> USB </strong></summary><br>
 
 ### :computer: USB Ports 
-- HS03 USB2 <-- Top left USB3 port
-- HS04 USB2 <-- Bottom left USB3 port
-- HS05 TypeC+Sw <-- Orientation 1
-- HS06 TypeC+Sw <-- Orientation 2
-- HS07 Internal <-- MSI EPF USB
-- HS08 USB2 <-- Right USB2 port
-- HS10 Internal <-- BCM20702A0 Bluetooth USB Port
-- HS11 Internal <-- BisonCam, NB Pro
-- HS12 Internal <-- USB2.0-CRW SD Card Reader
-- SS04 USB3 <-- Bottom left USB3 port
-- SS03 USB3 <-- Top left USB3 port
-- SS05 TypeC+Sw <-- Orientation 1
-- SS06 TypeC+Sw <-- Orientation 2</details>
+- HS03 USB2 <-- Top left USB 3.0 (3.1 Gen 1) Type-A port
+- HS04 USB2 <-- Second bottom left USB 3.0 (3.1 Gen 1) Type-A port
+- HS05 TypeC+Sw <-- Bottom left USB 3.1 (3.1 Gen 2) Type-C port - Orientation 1
+- HS06 TypeC+Sw <-- Bottom left USB 3.1 (3.1 Gen 2) Type-C port - Orientation 2
+- HS07 Internal <-- MSI EPF USB 2.0
+- HS08 USB2 <-- Right USB 2.0 Type-A port
+- HS10 Internal <-- BCM20702A0 Bluetooth USB 2.0 Port
+- HS11 Internal <-- BisonCam, NB Pro USB 2.0
+- HS12 Internal <-- USB 2.0-CRW SD Card Reader
+- SS04 USB3 <-- Second bottom left USB 3.0 (3.1 Gen 1) Type-A port
+- SS03 USB3 <-- Top left USB 3.0 (3.1 Gen 1) Type-A port
+- SS05 TypeC+Sw <-- Bottom left USB 3.1 (3.1 Gen 2) Type-C port - Orientation 1
+- SS06 TypeC+Sw <-- Bottom left USB 3.1 (3.1 Gen 2) Type-C port - Orientation 2</details>
 ## Useful Info
 - [Vanilla Laptop Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
