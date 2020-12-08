@@ -120,6 +120,7 @@ After second reboot enter BIOS in the same way, go to Security tab, select Secur
 | `Intel(R) Speed Shift Technology` | Enabled |
 | `CFG Lock` | Disabled |
 | `DVMT Pre-Allocated` | 64M |
+| `DVMT Total Gfx Mem` | MAX |
 | `Enable Hibernation` | Disabled |
 | `CSM Support` | Disabled |
 | `Above 4G Decoding` | Enabled |
@@ -136,6 +137,7 @@ After second reboot enter BIOS in the same way, go to Security tab, select Secur
 ├─ System Agent (SA) Configuration
 │  └─ Graphics Configuration
 │        └─ <b>DVMT Pre-Allocated</b>
+│        └─ <b>DVMT Total Gfx Mem</b>
 ├─ ACPI Settings
 │  └─ <b>Enable Hibernation</b>
 └─ CSM Configuration
