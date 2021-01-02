@@ -52,7 +52,7 @@ Crucial  32768 MB  , 2x16 GB, DDR4-2400 SO DIMM 260-pin
 <img src="https://raw.githubusercontent.com/tbrautaset/msi-ge72vr-7rf/Hackintosh/root/%20%23%202%20Basic%20data%20partition/Macintosh%20HD/Pictures/Crucial.jpg" width="'150" height="100"/>
 
 ### Samsung 960 EVO 1TB PCIe 3.0 x4 NVMExpressSSD M.2 2280 Solid State Drive
-Main boot drive for this machine amd EFI for rEFIndPlus v0.12.0.M, OpenCore, macOS and Windows
+Main boot drive for this machine and EFI for rEFIndPlus v0.12.0.M, OpenCore, macOS and Windows
 
 ![960 EVO](https://raw.githubusercontent.com/tbrautaset/msi-ge72vr-7rf/Hackintosh/root/%20%23%202%20Basic%20data%20partition/Macintosh%20HD/Pictures/Samsung960.jpg)
 
