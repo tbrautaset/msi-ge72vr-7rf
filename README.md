@@ -5,7 +5,7 @@
 # [GE72VR Apache Pro-416]( https://www.bestbuy.com/site/reviews/msi-17-3-laptop-intel-core-i7-16gb-memory-nvidia-geforce-gtx-1060-1tb-hard-drive-128gb-solid-state-drive-aluminum-black/5712736)
 [![macOS](https://img.shields.io/badge/macOS-Big_Sur-yellow.svg)](https://www.apple.com/macos/big-sur/)
 [![version](https://img.shields.io/badge/11.0.1-yellow)](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.4-green)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.5-green)](https://github.com/acidanthera/OpenCorePkg)
 [![works on my machine](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://www.msi.com/Laptop/GE72vr-7rF-Apache-Pro/Specification)
 <details><summary><strong> HARDWARE </strong></summary><br>
 
@@ -52,7 +52,7 @@ Crucial  32768 MB  , 2x16 GB, DDR4-2400 SO DIMM 260-pin
 <img src="https://raw.githubusercontent.com/tbrautaset/msi-ge72vr-7rf/Hackintosh/root/%20%23%202%20Basic%20data%20partition/Macintosh%20HD/Pictures/Crucial.jpg" width="'150" height="100"/>
 
 ### Samsung 960 EVO 1TB PCIe 3.0 x4 NVMExpressSSD M.2 2280 Solid State Drive
-Main boot drive for this machine amd EFI for rEFIndPlus, OpenCore, macOS and Windows
+Main boot drive for this machine amd EFI for rEFIndPlus v0.12.0.M, OpenCore, macOS and Windows
 
 ![960 EVO](https://raw.githubusercontent.com/tbrautaset/msi-ge72vr-7rf/Hackintosh/root/%20%23%202%20Basic%20data%20partition/Macintosh%20HD/Pictures/Samsung960.jpg)
 
