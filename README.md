@@ -4,8 +4,8 @@
 ![AboutThisMac](https://raw.githubusercontent.com/tbrautaset/msi-ge72vr-7rf/Hackintosh/root/%20%23%202%20Basic%20data%20partition/Macintosh%20HD/Pictures/macOS%20Big%20Sur%2011.0/macOS%2011.0.1%20(20B29)/About%20This%20Mac.png)
 # [GE72VR Apache Pro-416]( https://www.bestbuy.com/site/reviews/msi-17-3-laptop-intel-core-i7-16gb-memory-nvidia-geforce-gtx-1060-1tb-hard-drive-128gb-solid-state-drive-aluminum-black/5712736)
 [![macOS](https://img.shields.io/badge/macOS-Big_Sur-yellow.svg)](https://www.apple.com/macos/big-sur/)
-[![version](https://img.shields.io/badge/11.0.1-yellow)](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.5-green)](https://github.com/acidanthera/OpenCorePkg)
+[![version](https://img.shields.io/badge/11.2.3-yellow)](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.7-green)](https://github.com/acidanthera/OpenCorePkg)
 [![works on my machine](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://www.msi.com/Laptop/GE72vr-7rF-Apache-Pro/Specification)
 <details><summary><strong> HARDWARE </strong></summary><br>
 
